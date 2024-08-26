@@ -1,0 +1,9 @@
+html{
+    box-sizing: border-box;  /* PREVENTS PADDING FROM ADDING EXTRA HEIGHT OR WIDTH TO THE PAGE */
+
+}
+
+body {
+    min-height: 100vh; /*  even if there isn't much content on the page, this code ensures that the page will always cover the full height of the screen. */
+    background-color: rgb(238, 89, 89);
+}
